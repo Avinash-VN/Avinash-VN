@@ -46,7 +46,7 @@ Feel free to explore **[my repository](https://github.com/Avinash-VN/MyProjects)
 - **[DigiCare: NFC-Enabled Health Record Management System](https://github.com/Avinash-VN/MyProjects/tree/main/DigiCare):** Developed a mobile app prototype using NFC technology to securely manage and access health records.
 - **[Toyota Corolla Price Trend Analysis and Prediction](https://github.com/Avinash-VN/MyProjects/tree/main/Data_Analysis):** Analyzed and predicted future prices of Toyota Corolla using machine learning models.
 - **[Crime Trends Analysis in India](https://github.com/Avinash-VN/MyProjects/tree/main/India_Crimes):** Conducted a comprehensive analysis of crime trends across Indian states with an interactive Tableau dashboard.
-- **[Sales Forecasting Project](https://github.com/Avinash-VN/MyProjects/tree/main/Sales_Forecast):** Conducted a comprehensive analysis of crime trends across Indian states with an interactive Tableau dashboard.
+- **[Sales Forecasting Project](https://github.com/Avinash-VN/MyProjects/tree/main/Sales_Forecast):** Implemented sales forecasting using Oracle Autonomous Database, Talend, and Power BI to visualize trends and predictions.
 
 ## 📫 Let's Connect
 

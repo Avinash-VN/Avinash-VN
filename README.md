@@ -44,9 +44,9 @@ When I’m not immersed in data and analytics, you can find me exploring the lat
 Feel free to explore my repositories to see some of the projects I’ve worked on. Here are a few highlights:
 
 - **[DigiCare: NFC-Enabled Health Record Management System](https://github.com/Avinash-VN/MyProjects/tree/main/DigiCare):** Developed a mobile app prototype using NFC technology to securely manage and access health records.
-- **[Toyota Corolla Price Trend Analysis and Prediction](https://github.com/Avinash-VN/MyProjects):** Analyzed and predicted future prices of Toyota Corolla using machine learning models.
-- **[Crime Trends Analysis in India](https://github.com/Avinash-VN/MyProjects):** Conducted a comprehensive analysis of crime trends across Indian states with an interactive Tableau dashboard.
-- **[Sales Forecasting Project](https://github.com/Avinash-VN/MyProjects):** Conducted a comprehensive analysis of crime trends across Indian states with an interactive Tableau dashboard.
+- **[Toyota Corolla Price Trend Analysis and Prediction](https://github.com/Avinash-VN/MyProjects/tree/main/Data_Analysis):** Analyzed and predicted future prices of Toyota Corolla using machine learning models.
+- **[Crime Trends Analysis in India](https://github.com/Avinash-VN/MyProjects/tree/main/India_Crimes):** Conducted a comprehensive analysis of crime trends across Indian states with an interactive Tableau dashboard.
+- **[Sales Forecasting Project](https://github.com/Avinash-VN/MyProjects/tree/main/Sales_Forecast):** Conducted a comprehensive analysis of crime trends across Indian states with an interactive Tableau dashboard.
 
 ## 📫 Let's Connect
 

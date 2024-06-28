@@ -41,11 +41,12 @@ When I’m not immersed in data and analytics, you can find me exploring the lat
 
 ## 📊 My Projects
 
-Feel free to explore my repositories to see some of the projects I’ve worked on. Here are a few highlights:
+Feel free to explore my repositories (https://github.com/Avinash-VN/MyProjects) to see some of the projects I’ve worked on. Here are a few highlights:
 
-- **[E-Commerce Dashboard](#):** A comprehensive dashboard that visualizes key metrics for global B2B/B2C engagement.
-- **[Data Migration Tools](#):** Scripts and tools for migrating data from various platforms, including SAP to Snowflake.
-- **[Automation Scripts](#):** Python and SQL scripts to automate repetitive business processes.
+- **[DigiCare: NFC-Enabled Health Record Management System](DigiCare):** Developed a mobile app prototype using NFC technology to securely manage and access health records.
+- **[Toyota Corolla Price Trend Analysis and Prediction](Data Analysis):** Analyzed and predicted future prices of Toyota Corolla using machine learning models.
+- **[Crime Trends Analysis in India](India_Crimes):** Conducted a comprehensive analysis of crime trends across Indian states with an interactive Tableau dashboard.
+- **[Sales Forecasting Project](Sales_Forecast):** Conducted a comprehensive analysis of crime trends across Indian states with an interactive Tableau dashboard.
 
 ## 📫 Let's Connect
 

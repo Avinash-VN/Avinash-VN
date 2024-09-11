@@ -47,6 +47,7 @@ Feel free to explore **[my repository](https://github.com/Avinash-VN/MyProjects)
 - **[Toyota Corolla Price Trend Analysis and Prediction](https://github.com/Avinash-VN/MyProjects/tree/main/Data_Analysis):** Analyzed and predicted future prices of Toyota Corolla using machine learning models.
 - **[Crime Trends Analysis in India](https://github.com/Avinash-VN/MyProjects/tree/main/India_Crimes):** Conducted a comprehensive analysis of crime trends across Indian states with an interactive Tableau dashboard.
 - **[Sales Forecasting Project](https://github.com/Avinash-VN/MyProjects/tree/main/Sales_Forecast):** Implemented sales forecasting using Oracle Autonomous Database, Talend, and Power BI to visualize trends and predictions.
+- **[Retail Dashboard Project](https://avinash-vn.github.io/PowerBiDashboards.github.io/):**Transforming static reports into dynamic insights for leadership and marketing teams.
 
 ## 📫 Let's Connect
 
